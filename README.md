@@ -7,7 +7,7 @@ Welcome to the **Hotel Database Management System Project**!
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 This project is a simple and structured implementation of a relational database for managing hotel operations.This Database Management System (DBMS) designed to manage and streamline hotel operations, including:
 
 - Customer bookings  

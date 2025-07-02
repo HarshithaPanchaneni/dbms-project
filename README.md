@@ -2,8 +2,6 @@
 
 Welcome to the **Hotel Database Management System Project**!  
 
-
-
 ---
 
 ## Project Overview
@@ -38,4 +36,4 @@ Each entity includes multiple attributes that define its properties.
 
 Below is a visual representation of the relationships among the database entities:
 
-![ER Diagram](D:\er_model.jpg)
+![ER Diagram](https://github.com/HarshithaPanchaneni/dbms-project/blob/main/er_model.jpg?raw=true)

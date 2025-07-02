@@ -1,4 +1,3 @@
-# dbms-project
 # Hotel Management System
 
 Welcome to the **Hotel Database Management System Project**!  

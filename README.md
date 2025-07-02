@@ -1,5 +1,5 @@
 # dbms-project
-# 🏨 Hotel Management System
+# Hotel Management System
 
 Welcome to the **Hotel Database Management System Project**!  
 This project is a simple and structured implementation of a relational database for managing hotel operations.
@@ -11,18 +11,18 @@ This project is a simple and structured implementation of a relational database 
 
 This project is a **Database Management System (DBMS)** designed to manage and streamline hotel operations, including:
 
-- 🛏️ Customer bookings  
-- 🚪 Room management  
-- 🛠️ Facilities  
-- 💳 Payments  
+- Customer bookings  
+- Room management  
+- Facilities  
+- Payments  
 
 It includes SQL table creation scripts, queries, and an Entity-Relationship diagram for visualizing the schema.
 
 ---
 
-## 🗂️ Basic Structure
+## Basic Structure
 
-### 📘 Database Entities
+### Database Entities
 
 The system consists of **5 main entities**, each representing a table in the database:
 
@@ -36,7 +36,7 @@ Each entity includes multiple attributes that define its properties.
 
 ---
 
-## 📈 Entity-Relationship Diagram
+##  Entity-Relationship Diagram
 
 Below is a visual representation of the relationships among the database entities:
 

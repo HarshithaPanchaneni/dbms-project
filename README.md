@@ -36,4 +36,4 @@ Each entity includes multiple attributes that define its properties.
 
 Below is a visual representation of the relationships among the database entities:
 
-![ER Diagram](https://github.com/HarshithaPanchaneni/dbms-project/blob/main/er_model.jpg?raw=true)
+![ER Diagram](https://github.com/HarshithaPanchaneni/dbms-project/blob/main/er_diagram.jpg)
